@@ -1,0 +1,77 @@
+.container {
+  font:awesome;
+}
+.about-me {
+  color:grey;
+  font-family:Times New Roman;
+  margin-bottom:20%
+}
+.icon-links {
+  margin: 0 auto;
+}
+.body {
+  background:white; 
+}
+.bio-header {
+  margin: 0% auto;
+  color:Black;
+  font-size:400%
+}
+.bio {
+  font-size:220%;
+  margin:3% 0
+}
+.portfolio {
+  margin:20% 0
+}
+.portfolio-header {
+  margin:5% 0;
+    color:lightgrey;
+    text-shadow: 3px 2px black;
+  text-decoration: underline;
+}
+.project {
+  width: 350px;
+  height:550px;
+  margin: 2% auto; 
+  display:block
+}
+.contact-header {
+  color:lightgrey;
+  text-shadow: 3px 2px black;
+  text-decoration: underline;
+}
+.pic-me {
+  width:100%;
+  border-radius:10%;
+  display:block;
+  margin:auto;
+}
+.my-info {
+  margin:1% auto;
+  font-size:150%;
+  text-align: justify;
+  text-justify: inter-word;
+}
+.contact {
+  margin:20% 0
+}
+
+#nav {
+  display: flex;
+  padding: 20px;
+  background: lightgrey;
+  list-style: none;
+  justify-content: flex-end;
+  align-items: center;
+  margin-bottom: 30px;
+}
+
+#nav li {
+  margin-right: 15px;
+  font-size: 22px;
+}
+
+#nav li a {
+  color: black;
+}
